@@ -39,8 +39,5 @@ Here are some ideas to get you started:
 
 
 
-<img src="https://cdn.simpleicons.org/docker/2496ED" width="40" height="40" alt="Docker">
-<img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="40" height="40" alt="AWS">
-<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" height="40" alt="JavaScript">
-<img src="https://iconscout.com/icons/aws" width="40" height="40" alt="JavaScript">
-<a href="https://iconscout.com/icons/aws" 
+<img src="https://cdn.simpleicons.org/docker/2496ED" width="40" height="40" alt="Docker"> <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="40" height="40" alt="AWS"> <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" height="40" alt="JavaScript">
+
