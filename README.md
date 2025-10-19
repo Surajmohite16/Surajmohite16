@@ -42,4 +42,4 @@ Here are some ideas to get you started:
 <img src="https://cdn.simpleicons.org/docker/2496ED" width="40" height="40" alt="Docker"> <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="40" height="40" alt="AWS"> <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" height="40" alt="JavaScript">
 
 
-![Profile views](https://komarev.com/ghpvc/?username=Surajmohite16&style=flat)  ![Profile views](https://komarev.com/ghpvc/?username=Surajmohite16&style=flat)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Surajmohite16&layout=compact&theme=dark)
+![Profile views](https://komarev.com/ghpvc/?username=Surajmohite16&style=flat)  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Surajmohite16&show_icons=true&theme=dark)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Surajmohite16&layout=compact&theme=dark)
