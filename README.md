@@ -27,6 +27,4 @@ A passionate Senior Cloud & DevOps Engineer From India. I work in Corporate IT S
 📫 How to reach me surajmohite405@gmail.com
 
 
-![Arch Linux package](https://img.shields.io/archlinux/v/:repository/:architecture/:packageName)
-
-![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/:user/:repo)
+![Arch Linux package](https://img.shields.io/archlinux/v/:repository/:architecture/:packageName) ![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/:user/:repo)
