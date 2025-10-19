@@ -1,4 +1,4 @@
-## Hi Everyone👋, I'm Suraj Mohite
+                    ## Hi Everyone👋, I'm Suraj Mohite
 
 <!--
 **Surajmohite16/Surajmohite16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
                     A passionate Senior Cloud & DevOps Engineer From India. I work in Corporate IT Sector
 
+![Profile views](https://komarev.com/ghpvc/?username=Surajmohite16&style=flat) 
 
 🌱 I’m currently Working as a Senior Cloud Engineer.
 
@@ -27,7 +28,7 @@ Here are some ideas to get you started:
 📫 How to reach me surajmohite405@gmail.com
 
 
-![Arch Linux package](https://img.shields.io/archlinux/v/:repository/:architecture/:packageName) ![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/:user/:repo)  ![Profile views](https://komarev.com/ghpvc/?username=Surajmohite16&style=flat) 
+![Arch Linux package](https://img.shields.io/archlinux/v/:repository/:architecture/:packageName) ![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/:user/:repo)  
 
 <a href="https://www.linkedin.com/in/YOUR-USERNAME">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
