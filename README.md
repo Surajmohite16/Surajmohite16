@@ -40,27 +40,7 @@ Here are some ideas to get you started:
 
 
 
-<img src="https://cdn.simpleicons.org/docker/2496ED" width="40" height="40" alt="Docker"> <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="40" height="40" alt="AWS"> <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" height="40" alt="JavaScript">
+<img src="https://cdn.simpleicons.org/docker/2496ED" width="40" height="40" alt="Docker"> <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="40" height="40" alt="AWS"> <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" height="40" alt="JavaScript">  <img src="https://cdn.simpleicons.org/kunernetes/F7DF1E" width="40" height="40" alt="Kunernetes">  <img src="https://cdn.simpleicons.org/ansible/F7DF1E" width="40" height="40" alt="Ansible">
 
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Surajmohite16&show_icons=true&theme=dark)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Surajmohite16&layout=compact&theme=dark)
-
-- uses: Platane/snk@v3
-  with:
-    # github user name to read the contribution graph from (**required**)
-    # using action context var `github.repository_owner` or specified user
-    github_user_name: ${{ github.repository_owner }}
-
-    # list of files to generate.
-    # one file per line. Each output can be customized with options as query string.
-    #
-    #  supported options:
-    #  - palette:     A preset of color, one of [github, github-dark, github-light]
-    #  - color_snake: Color of the snake
-    #  - color_dots:  Coma separated list of dots color.
-    #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
-    #                 Exactly 5 colors are expected.
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
