@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <img width="1584" height="396" alt="Abstract Technology Profile LinkedIn Banner (2)" src="https://github.com/user-attachments/assets/f31e96ba-39e0-4896-b380-a744580b3ed9" />
+
 A passionate DevOps Engineer From India. I work in Corporate IT Sector
+
 
 🌱 I’m currently Working as a Senior Cloud Engineer.
 
