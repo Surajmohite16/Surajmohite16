@@ -40,7 +40,33 @@ Here are some ideas to get you started:
 
 
 
-<img src="https://cdn.simpleicons.org/docker/2496ED" width="40" height="40" alt="Docker"> <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="40" height="40" alt="AWS"> <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" height="40" alt="JavaScript">  <img src="https://cdn.simpleicons.org/kunernetes/F7DF1E" width="40" height="40" alt="Kunernetes">  <img src="https://cdn.simpleicons.org/ansible/F7DF1E" width="40" height="40" alt="Ansible">
+<!-- AWS -->
+<img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="40" height="40" alt="AWS">
+
+<!-- Linux -->
+<img src="https://cdn.simpleicons.org/linux/FCC624" width="40" height="40" alt="Linux">
+
+<!-- Ansible -->
+<img src="https://cdn.simpleicons.org/ansible/EE0000" width="40" height="40" alt="Ansible">
+
+<!-- Docker -->
+<img src="https://cdn.simpleicons.org/docker/2496ED" width="40" height="40" alt="Docker">
+
+<!-- Kubernetes -->
+<img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="40" height="40" alt="Kubernetes">
+
+<!-- Terraform -->
+<img src="https://cdn.simpleicons.org/terraform/7B42BC" width="40" height="40" alt="Terraform">
+
+<!-- Jenkins -->
+<img src="https://cdn.simpleicons.org/jenkins/D24939" width="40" height="40" alt="Jenkins">
+
+<!-- Prometheus -->
+<img src="https://cdn.simpleicons.org/prometheus/E6522C" width="40" height="40" alt="Prometheus">
+
+<!-- Grafana -->
+<img src="https://cdn.simpleicons.org/grafana/F46800" width="40" height="40" alt="Grafana">
+
 
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Surajmohite16&show_icons=true&theme=dark)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Surajmohite16&layout=compact&theme=dark)
