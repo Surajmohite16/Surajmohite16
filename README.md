@@ -27,9 +27,6 @@ Here are some ideas to get you started:
 
 📫 How to reach me surajmohite405@gmail.com
 
-
-![Arch Linux package](https://img.shields.io/archlinux/v/:repository/:architecture/:packageName) ![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/:user/:repo)  
-
 <a href="https://www.linkedin.com/in/YOUR-USERNAME">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
